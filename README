@@ -1,0 +1,6 @@
+A set of RPMS sources we use at Enthought:
+
+	- pyzmq 14.5.0 and salt 2014.7.1 for RH5.
+
+Those were often made in anger, without any intent to be 'production ready'.
+Use at your own peril.
